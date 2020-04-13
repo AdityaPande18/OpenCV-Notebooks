@@ -1,2 +1,2 @@
 # Screenshots
-![](Screenshots/Original Edge.png)
+![](Screenshots/Face_Detection.png)
